@@ -12,7 +12,7 @@ Icon | Character | Text
 ![Flowergirl](https://wiki.bloodontheclocktower.com/images/a/ac/Icon_flowergirl.png) | **Flowergirl** | Each night\*, you learn if a Demon voted today.
 ![Oracle](https://wiki.bloodontheclocktower.com/images/b/bb/Icon_oracle.png) | **Oracle** | Each night*, you learn how many dead players are evil.
 ![Seamstress](https://wiki.bloodontheclocktower.com/images/5/53/Icon_seamstress.png) | **Seamstress** | Once per game, at night, choose 2 players (not yourself): you learn if they are the same alignment.
-![Philosopher](https://wiki.bloodontheclocktower.com/images/5/5d/Icon_philosopher.png) | **Philosopher** | https://wiki.bloodontheclocktower.com/images/5/5d/Icon_philosopher.png
+![Philosopher](https://wiki.bloodontheclocktower.com/images/5/5d/Icon_philosopher.png) | **Philosopher** | Once per game, at night, choose a good character: gain that ability. If this character is in play, they are drunk.
 ![Farmer](https://wiki.bloodontheclocktower.com/images/f/fe/Icon_farmer.png) | **Farmer** | When you die at night, an alive good player becomes a Farmer.
 
 ### Outsider
